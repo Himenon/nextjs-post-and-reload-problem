@@ -12,23 +12,25 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Demo Movie
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+**Chrome**
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+https://user-images.githubusercontent.com/6715229/160765062-a5dda274-0e99-403b-86d1-73965b2c4ef3.mov
 
-## Learn More
+**Safari**
 
-To learn more about Next.js, take a look at the following resources:
+https://user-images.githubusercontent.com/6715229/160765071-f588ff8f-990f-4524-b216-0e91edf303cc.mov
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Browser Version
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+| Browser       | Version                                           |
+| :------------ | :------------------------------------------------ |
+| Google Chrome | `Version 100.0.4896.60 (Official Build) (x86_64)` |
+| Firefox       | `98.0.2 (64-bit)`                                 |
+| Safari        | `Version 14.1.2 (15611.3.10.1.5, 15611)`          |
 
-## Deploy on Vercel
+## Related
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* [What is the correct specification for reloading after rewriting using window.history.replaceState on a page after a POST transition? - StackOverflow](https://stackoverflow.com/questions/71672272/what-is-the-correct-specification-for-reloading-after-rewriting-using-window-his)
+* [Himenon/history_pushState-reload-bugs](https://github.com/Himenon/history_pushState-reload-bugs)
